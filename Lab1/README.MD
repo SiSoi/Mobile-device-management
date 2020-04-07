@@ -12,3 +12,5 @@ where X is the total cost of all calls of subscribers, T is the total duration o
 SMS tariffication rules:
 Y = N * k,
 where Y is the total cost of all SMS subscribers, N is the total number of SMS (the sum of the number of all SMS in subscribers upon request), k is the tariff plan multiplier (each option has its own).
+
+The folder Program consists of the laboratory coding work for the task, and the other folder - Report - contains reports on laboratory task 1.

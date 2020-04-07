@@ -1,1 +1,1 @@
-A repository contains 3 laboratory tasks for subject "Mobile device management".
+A repository contains 3 laboratory tasks for the subject "Mobile device management".
